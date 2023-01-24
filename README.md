@@ -31,6 +31,13 @@
 <img align="left" alt="Sqlite" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jetbrains" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Webstorm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webstorm/webstorm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 [LinkedIn]: https://www.linkedin.com/in/mateo-marchisone-8b5230197/
 [Instagram]: https://www.instagram.com/mate_marchisone/
