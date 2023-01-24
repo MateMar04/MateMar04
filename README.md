@@ -42,6 +42,8 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
+---
+
 ### Github Stats:
 
 <img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
