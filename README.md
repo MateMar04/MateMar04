@@ -49,10 +49,10 @@
 
 ## Github Stats:
 
-<div>
-<img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
-<img align="right" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact" />
-</div>
+<dir>
+    <img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
+    <img align="right" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact" />
+</dir>
 
 [LinkedIn]: https://www.linkedin.com/in/mateo-marchisone-8b5230197/
 [Instagram]: https://www.instagram.com/mate_marchisone/
