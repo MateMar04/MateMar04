@@ -35,6 +35,9 @@
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Webstorm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webstorm/webstorm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SSH" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RaspberryPi" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MD" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
