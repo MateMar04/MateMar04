@@ -48,9 +48,8 @@
 <br>
 
 ## Github Stats:
-<img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
-<br>
-<img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact" />
+<img align="center" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
+<img align="center" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact" />
 
 
 [LinkedIn]: https://www.linkedin.com/in/mateo-marchisone-8b5230197/
