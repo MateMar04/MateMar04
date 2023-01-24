@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![LinkedIn](./img/linkedin-light.svg)](www.linkedin.com/in/mateo-marchisone-8b5230197#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](www.linkedin.com/in/mateo-marchisone-8b5230197#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/mate_marchisone/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/mate_marchisone/#gh-dark-mode-only)
@@ -34,5 +34,5 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-[LinkedIn]: www.linkedin.com/in/mateo-marchisone-8b5230197
+[LinkedIn]: https://www.linkedin.com/in/mateo-marchisone-8b5230197/
 [Instagram]: https://www.instagram.com/mate_marchisone/
