@@ -6,7 +6,9 @@
 - 🥅 2023 Goals: Learn more about UI, UX and Backend & Frontend programming
 - ⚡ I play the guitar and like to design and 3D print my stuff
 
-### Connect with me:
+
+
+## Connect with me:
 
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-dark-mode-only)
@@ -14,7 +16,10 @@
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/mate_marchisone/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/mate_marchisone/#gh-dark-mode-only)
 
-### Languages and Tools:
+<br>
+<br>
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -45,9 +50,7 @@
 <br>
 <br>
 
-<hr>
-
-### Github Stats:
+## Github Stats:
 
 <img align="left" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
 
