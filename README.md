@@ -15,6 +15,7 @@ I enjoy building my own tools to solve everyday problems, automate repetitive ta
 
 ### Frontend & mobile
 
+- **Markup & styling languages:** HTML5 and CSS3.
 - **Frameworks:** React, Next.js, Angular, Vue, Svelte, and Astro.
 - **Tooling & state:** Vite, React Router, TanStack Query, Pinia, and jQuery.
 - **Styling & UI:** Tailwind CSS, Sass, Bootstrap, Material UI, Ant Design, Angular Material, and shadcn/ui.
@@ -83,17 +84,17 @@ I enjoy building my own tools to solve everyday problems, automate repetitive ta
 
 ### Desktop & hardware
 
-- **Desktop applications:** Qt / PySide / PyQt, Swing, SwiftUI, and AppKit.
+- **Desktop applications:** Qt / PySide / PyQt, Java with Swing, and Swift with SwiftUI / AppKit.
 - **Hardware:** Arduino, Raspberry Pi, serial communication, and 3D printing.
 - **Physics simulation:** Pymunk.
 
 ### University projects
 
-- **Algorithms & programming:** data structures, graph algorithms, functional programming, and object-oriented design.
+- **Algorithms & programming:** data structures, graph algorithms, functional programming with Haskell and Scala, and object-oriented design.
 - **Distributed processing:** Apache Spark and MapReduce.
 - **Computer architecture:** SystemVerilog and basic Assembly language (ARM / LEGv8).
-- **Networking:** TCP socket programming, client/server protocols, and OMNeT++ simulations of routing, flow control, and congestion control.
-- **Operating systems:** process management and shell implementation.
+- **Networking:** TCP socket programming, client/server protocols, and C++ / OMNeT++ simulations of routing, flow control, and congestion control.
+- **Operating systems:** C, process management, and shell implementation.
 
 ## Connect with me
 
