@@ -1,56 +1,118 @@
- # Hi there, I'm Mateo 👋
+# Hi there, I'm Mateo 👋
 
- ## I'm a Student and becoming a Developer!!
+I'm **Mateo Marchisone**, a **Computer Science student at FaMAF – Universidad Nacional de Córdoba (UNC)** and a full-stack developer. I work at **intive** and teach at **Instituto Técnico Salesiano Villada**.
 
-- 🌱 I’m currently learning everything
-- 🥅 2023 Goals: Learn more about UI, UX and Backend & Frontend programming
-- ⚡ I play the guitar and like to design and 3D print my stuff
+I enjoy building my own tools to solve everyday problems, automate repetitive tasks, and make the way I work fit my needs. My projects cover task management, finance, scheduling, and business operations.
 
+🎾 In my free time, I enjoy playing tennis, running, going to the gym, and listening to music.
 
+## Tech stack
 
-## Connect with me:
+### Languages
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/#gh-dark-mode-only)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-437291?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+
+### Frontend & mobile
+
+- **Frameworks:** React, Next.js, Angular, Vue, Svelte, and Astro.
+- **Tooling & state:** Vite, React Router, TanStack Query, Pinia, and jQuery.
+- **Styling & UI:** Tailwind CSS, Sass, Bootstrap, Material UI, Ant Design, Angular Material, and shadcn/ui.
+- **Interaction & visualization:** dnd-kit, Chart.js, and Leaflet.
+- **Mobile:** Ionic and Capacitor.
+
+### Backend & APIs
+
+- **Frameworks & servers:** FastAPI, Django, Django REST Framework, Flask, Node.js, Express, Uvicorn, and Gunicorn.
+- **Data access:** SQLAlchemy, Django ORM, and Alembic migrations.
+- **Communication & authentication:** REST APIs, WebSockets, and JWT.
+- **API design:** OpenAPI / Swagger, Postman, Pydantic validation, role-based access, idempotency, and version-aware updates.
+
+### Databases & cloud
+
+- **Relational databases:** PostgreSQL, MySQL, and SQLite.
+- **NoSQL databases:** MongoDB and Cloud Firestore.
+- **Firebase:** Authentication, Hosting, Cloud Functions, and the Local Emulator Suite.
+- **Google Cloud:** Cloud Run, App Engine, Cloud Storage, Document AI, Cloud Monitoring, and IAM.
+
+### Data engineering & business intelligence
+
+- **Platforms & automation:** Microsoft Fabric, Power BI, and Power Automate.
+- **Queries & modeling languages:** SQL, DAX, and Power Query M.
+- **Pipelines & modeling:** Dataflows Gen2, data warehouses, ETL workflows, semantic models, incremental loads and refresh, and XMLA endpoints.
+- **Delivery & maintenance:** Fabric deployment pipelines, dataflow inventories, dependency analysis, and migration tooling.
+- **Python & notebooks:** pandas, NumPy, Jupyter, Semantic Link / SemPy, openpyxl, Matplotlib, and NetworkX.
+
+### MCP development & AI integrations
+
+- **MCP servers:** MCP SDK and FastMCP, Streamable HTTP, authenticated tools, scoped read/write permissions, and integrations with existing application services.
+- **Agents & search:** LangChain, Gemini / Google Gen AI, Vertex AI search integrations, embeddings, and local models through Ollama.
+- **Audio & vision:** transcription and speaker diarization with WhisperX / pyannote and API integrations; image processing with OpenCV and Pillow.
+- **Imaging integrations:** DICOM workflows with Orthanc and Cornerstone.js.
+- **Model experimentation:** PyTorch, Hugging Face Transformers, and PEFT / LoRA.
+
+### WordPress development
+
+- Custom **PHP plugins**, hooks, custom post types, metadata, permissions, and REST endpoints.
+- Custom **Elementor widgets**, reusable components, design tokens, responsive layouts, and editor controls.
+- Administration tools, Excel imports, external API integrations, caching, and site maintenance.
+
+### Automation & integrations
+
+- **Business integrations:** SharePoint, Microsoft Graph, Excel Online, and SQL Server.
+- **Bots & services:** Telegram bots, webhooks, email processing, and external API integrations.
+- **Documents:** PDF generation with Puppeteer, pdf-lib, and Adobe PDF Services; Excel / CSV import and export, OCR, and document extraction workflows.
+- **Web automation:** Selenium and Beautiful Soup.
+
+### Networking & infrastructure
+
+- **Network configuration:** MikroTik / RouterOS, IP addressing and subnetting, routing, switching, VLANs, DHCP, DNS, NAT, and firewall rules.
+- **Remote access & security:** WireGuard VPNs, SSH keys, access segmentation, and Linux server administration with Bash / shell scripting.
+- **Wi-Fi & DNS services:** CAPsMAN, Wi-Fi access point management, and Pi-hole.
+- **Servers & deployment:** Nginx reverse proxies, HTTPS, and container networking.
+
+### Testing & development tools
+
+- **Testing:** pytest, Vitest, React Testing Library, and Playwright.
+- **Code quality:** ESLint, Prettier, Ruff, and coverage analysis.
+- **Environments & packages:** Docker, Docker Compose, npm, pnpm, and uv.
+- **Version control & delivery:** Git, GitHub, GitHub Actions, and CI/CD workflows.
+- **Collaboration & documentation:** Jira, Markdown, LaTeX, API contracts, and architecture diagrams.
+- **Editors:** Visual Studio Code, PyCharm, WebStorm, and IntelliJ IDEA.
+- **Operating systems:** Linux / Ubuntu, Windows, and macOS.
+
+### Desktop & hardware
+
+- **Desktop applications:** Qt / PySide / PyQt, Swing, SwiftUI, and AppKit.
+- **Hardware:** Arduino, Raspberry Pi, serial communication, and 3D printing.
+- **Physics simulation:** Pymunk.
+
+### University projects
+
+- **Algorithms & programming:** data structures, graph algorithms, functional programming, and object-oriented design.
+- **Distributed processing:** Apache Spark and MapReduce.
+- **Computer architecture:** SystemVerilog and basic Assembly language (ARM / LEGv8).
+- **Networking:** TCP socket programming, client/server protocols, and OMNeT++ simulations of routing, flow control, and congestion control.
+- **Operating systems:** process management and shell implementation.
+
+## Connect with me
+
+[![LinkedIn](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/)
+[![LinkedIn](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/mate_marchisone/#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/mate_marchisone/#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg#gh-light-mode-only)](https://www.instagram.com/mate_marchisone/)
+[![Instagram](./img/instagram-dark.svg#gh-dark-mode-only)](https://www.instagram.com/mate_marchisone/)
 
-## Languages and Tools:
+## GitHub stats
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Qt" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/qt/qt-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCV" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sqlite" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jetbrains" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Webstorm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webstorm/webstorm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="IntelliJ" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SSH" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original.svg" style="padding-right:10px;" />
-<img align="left" alt="RaspberryPi" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MD" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
-<br>
-<br>
-
-## Github Stats:
-<img align="center" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true" />
-<img align="center" alt="MateMar04's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact" />
-
-
-[LinkedIn]: https://www.linkedin.com/in/mateo-marchisone-8b5230197/
-[Instagram]: https://www.instagram.com/mate_marchisone/
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true)
+![Most used languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact)
