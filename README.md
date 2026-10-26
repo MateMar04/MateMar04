@@ -100,9 +100,8 @@ I enjoy building my own tools to solve everyday problems, automate repetitive ta
 
 [![LinkedIn](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/)
 [![LinkedIn](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg#gh-light-mode-only)](https://www.instagram.com/mate_marchisone/)
-[![Instagram](./img/instagram-dark.svg#gh-dark-mode-only)](https://www.instagram.com/mate_marchisone/)
+
+📧 [mateo.marchisone@gmail.com](mailto:mateo.marchisone@gmail.com)
 
 ## GitHub stats
 
