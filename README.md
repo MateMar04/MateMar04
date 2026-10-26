@@ -102,8 +102,3 @@ I enjoy building my own tools to solve everyday problems, automate repetitive ta
 [![LinkedIn](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/mateo-marchisone-8b5230197/)
 
 📧 [mateo.marchisone@gmail.com](mailto:mateo.marchisone@gmail.com)
-
-## GitHub stats
-
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateMar04&show_icons=true&hide_border=true)
-![Most used languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=MateMar04&layout=compact)
